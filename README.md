@@ -6,6 +6,9 @@ Gateway RDM Broadcast to MQTT
 Ich binde das Script ins PPP Profil ein. Das weiterleiten von Broadcasts macht nur Sinn wenn der VPN Tunnel zur Zentrale aufgebaut ist.
 Beim Abbau des VPN Tunnels wird die weiterleitung ebenfalls gestoppt.
 
+```filter-ip-address=10.1.11.255/32``` wir wollen nur Broadcast
+```streaming-server=10.1.1.2:37008``` die Zeiladresse inkl Port
+
 ### PPP-Profil Scripts "On Up"
 
 ```
