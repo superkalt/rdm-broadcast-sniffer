@@ -14,3 +14,9 @@ Gateway RDM Broadcast to MQTT
 ```
 /tool sniffer set streaming-enabled=no
 ```
+
+## Scripts for NodeRed
+
+```
+hier fehlt noch was
+```
