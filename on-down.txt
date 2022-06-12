@@ -1,0 +1,2 @@
+/ip route remove [find dst-address="10.1.1.0/24"]
+/tool sniffer stop
