@@ -9,15 +9,10 @@ Beim Abbau des VPN Tunnels wird die weiterleitung ebenfalls gestoppt.
 ### PPP-Profil Scripts "On Up"
 
 [on-up](/on-up.txt)
-```
-```
 
-### PPP-Profil Scripts "On Up"
+### PPP-Profil Scripts "On Down"
 
 [on-down](/on-down.txt)
-```
-
-```
 
 ## Scripts for NodeRed
 
