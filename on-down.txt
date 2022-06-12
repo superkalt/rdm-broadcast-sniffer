@@ -1,5 +1,2 @@
-# remove route to SUPERKALT network
 /ip route remove [find dst-address="10.1.1.0/24"]
-
-# start sniffer
 /tool sniffer stop
