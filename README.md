@@ -1,5 +1,5 @@
-# rdm-broadcast-sniffer
-Gateway RDM Broadcast to MQTT
+# tdb-to-mqtt
+Gateway for TDB Controllers to MQTT
 
 ## Setup for Mikrotik
 
